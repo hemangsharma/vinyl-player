@@ -1,5 +1,6 @@
 {
   "name": "vinyl-player",
+  "homepage": "https://hemangsharma.github.io/vinyl-player/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
