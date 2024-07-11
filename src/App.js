@@ -4,7 +4,7 @@ import MusicService from './MusicService';
 import './App.css';
 
 const CLIENT_ID = '76467408e75d48c2bd152c17e293ed33';
-const REDIRECT_URI = 'https://hemangsharma.github.io/';
+const REDIRECT_URI = 'https://hemangsharma.github.io/vinyl-player/';
 const AUTH_ENDPOINT = 'https://accounts.spotify.com/authorize';
 const RESPONSE_TYPE = 'token';
 const SCOPES = 'user-library-read streaming';
