@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vinyl-player/static/css/main.e9a5290f.css",
+    "main.js": "/vinyl-player/static/js/main.38d7f8d2.js",
+    "static/js/453.493ad1dd.chunk.js": "/vinyl-player/static/js/453.493ad1dd.chunk.js",
+    "index.html": "/vinyl-player/index.html",
+    "main.e9a5290f.css.map": "/vinyl-player/static/css/main.e9a5290f.css.map",
+    "main.38d7f8d2.js.map": "/vinyl-player/static/js/main.38d7f8d2.js.map",
+    "453.493ad1dd.chunk.js.map": "/vinyl-player/static/js/453.493ad1dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9a5290f.css",
+    "static/js/main.38d7f8d2.js"
+  ]
+}
